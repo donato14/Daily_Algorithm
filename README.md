@@ -20,3 +20,21 @@
 ## Files
 - 각 알고리즘 사이트 명 폴더 > 월 > 일.py 
 - 사이트가 아닌 경우 폴더명 > 문제번호.py
+
+
+## Progress
+<details>
+<summary>BaekJoon</summary>
+  <div markdown="1">       
+    1. 입출력과 사칙연산 13/13 (완료)<br />
+  </div>
+  <div markdown="2">      
+    2. if문 4/7 (진행중)
+  </div>
+</details>
+<details>
+<summary>CodeUp</summary>
+  <div markdown="1">
+    1. 파이썬 기초 100제 80/98 (진행중)<br />
+  <div>
+</details>
