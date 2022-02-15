@@ -29,7 +29,10 @@
     1. 입출력과 사칙연산 13/13 (완료)<br />
   </div>
   <div markdown="2">      
-    2. if문 4/7 (진행중)
+    2. if문 7/7 (완료)
+  </div>
+  <div markdown="2">      
+    2. if문 2/7 (완료)
   </div>
 </details>
 <details>
