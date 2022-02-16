@@ -31,8 +31,11 @@
   <div markdown="2">      
     2. if문 7/7 (완료)
   </div>
-  <div markdown="2">      
-    2. if문 2/7 (완료)
+  <div markdown="3">      
+    3. for문 11/11 (완료)
+  </div>
+  <div markdown="4">      
+    4. while문 2/3 (완료)
   </div>
 </details>
 <details>
