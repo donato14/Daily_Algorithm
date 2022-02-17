@@ -35,7 +35,10 @@
     3. for문 11/11 (완료)
   </div>
   <div markdown="4">      
-    4. while문 2/3 (완료)
+    4. while문 3/3 (완료)
+  </div>
+  <div markdown="5">      
+    5. 1차원 배열 4/7 (진행중)
   </div>
 </details>
 <details>
