@@ -38,7 +38,13 @@
     4. while문 3/3 (완료)
   </div>
   <div markdown="5">      
-    5. 1차원 배열 4/7 (진행중)
+    5. 1차원 배열 7/7 (완료)
+  </div>
+  <div markdown="6">      
+    6. 함수 3/3 (완료)
+  </div>
+  <div markdown="7">      
+    7. 문자열 9/10 (진행중)
   </div>
 </details>
 <details>
