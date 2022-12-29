@@ -9,6 +9,7 @@ function solution(arr){
       sum += arr[i]
     } 
   }
+  
   temp = temp.sort(function (a, b) {
     return a - b;
   });
